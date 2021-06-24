@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/sajilo_emi/static/js/main.222342df.chunk.js",
+    "main.js.map": "/sajilo_emi/static/js/main.222342df.chunk.js.map",
+    "runtime-main.js": "/sajilo_emi/static/js/runtime-main.da73b9e7.js",
+    "runtime-main.js.map": "/sajilo_emi/static/js/runtime-main.da73b9e7.js.map",
+    "static/js/2.2f16bbda.chunk.js": "/sajilo_emi/static/js/2.2f16bbda.chunk.js",
+    "static/js/2.2f16bbda.chunk.js.map": "/sajilo_emi/static/js/2.2f16bbda.chunk.js.map",
+    "index.html": "/sajilo_emi/index.html",
+    "static/js/2.2f16bbda.chunk.js.LICENSE.txt": "/sajilo_emi/static/js/2.2f16bbda.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da73b9e7.js",
+    "static/js/2.2f16bbda.chunk.js",
+    "static/js/main.222342df.chunk.js"
+  ]
+}
